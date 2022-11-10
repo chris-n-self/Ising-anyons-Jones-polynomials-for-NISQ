@@ -1,7 +1,7 @@
 
 # Estimate Jones Polynomials for Ising anyons on IBM Quantum devices
 
-This is code to accompany "Estimating the Jones polynomial for Ising anyons on noisy quantum computers" by Chris N. Self, Sofyan Iblisdir, Gavin K. Brennen, and Konstantinos Meichanetzidis (UPCOMING)
+This is code to accompany "Estimating the Jones polynomial for Ising anyons on noisy quantum computers" by Chris N. Self, Sofyan Iblisdir, Gavin K. Brennen, and Konstantinos Meichanetzidis [https://arxiv.org/abs/2210.11127](https://arxiv.org/abs/2210.11127)
 
 Combine this repo with the experimental data in zenodo [https://doi.org/10.5281/zenodo.7194971](https://doi.org/10.5281/zenodo.7194971) to explore other data fittings or plot the results.
 
